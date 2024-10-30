@@ -8,5 +8,3 @@ quay.io/tigera/operatorv1.34.5
 calico/pod2daemon-flexvol:v3.28.2
 calico/node-driver-registrar:v3.28.2
 calico/cni:v3.28.2
-
-
